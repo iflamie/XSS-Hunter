@@ -25,7 +25,7 @@ XSS-Hunter — это простой, но эффективный сканер �
 Установка
     Клонируйте репозиторий
     
-    git clone https://github.com/your-username/xss-hunter.git
+    git clone https://github.com/iflamie/xss-hunter.git
     
 Далее
 
